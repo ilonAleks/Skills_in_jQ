@@ -1,0 +1,108 @@
+.p1 {
+	background-color: grey;
+	color: white;
+	padding: 5px;
+	cursor: pointer;
+}
+
+.div1 {
+	background-color: grey;
+	color: white;
+}
+
+.p2 {
+	background-color: rgb(126, 76, 76);
+	color: white;
+	padding: 5px;
+	cursor: pointer;
+}
+
+.div2 {
+	background-color: rgb(148, 38, 38);
+	color: white;
+}
+
+.p3 {
+	background-color: rgb(76, 77, 126);
+	color: white;
+	padding: 5px;
+	cursor: pointer;
+}
+
+.div3 {
+	background-color: rgb(54, 38, 148);
+	color: white;
+}
+
+/* div4 {
+	background: orange;
+	height: 80px;
+	width: 80px;
+	position: absolute;
+	border-radius: 50%;
+	opacity: 0.5;
+} */
+
+body {
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+}
+
+.block {
+	height: 400px;
+	width: 600px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: auto 0 0 -300px;
+	padding: 80px;
+	box-sizing: border-box;
+	text-align: justify;
+	background-image: url("https://img-fotki.yandex.ru/get/67890/136164467.17/0_12bc81_21263ac1_orig.png");
+}
+
+h1 {
+	margin-top: 0;
+	color: #1100ff;
+}
+
+.h2 {
+	margin-top: 0;
+	color: #da0606;
+}
+
+p a {
+	display: block;
+	text-align: center;
+	margin: 5px auto;
+	font-size: 0.9em;
+}
+
+.green {
+	color: #4c9e25;
+	font-weight: bold;
+}
+
+h3 {
+	color: rgb(8, 95, 95);
+}
+
+.rem {
+	margin-left: 5px;
+	background-color: white;
+	color: red;
+	border: none;
+	cursor: pointer;
+}
+
+
+/* .new {
+	width: 300px;
+	height: 100px;
+	padding: 10px;
+	margin: 20px;
+	border: 3px solid blue;
+	background-color: red;
+	color: black;
+} */
